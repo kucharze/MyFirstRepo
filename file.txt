@@ -3,3 +3,5 @@ Hello world!!!
 This is a new Github test repository for a web design class!!
 
 This text will be added to a new branch
+
+This text will be added in the gui branch
